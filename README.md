@@ -9,7 +9,7 @@ Your contributions are welcomed and encouraged.
 - 🔭 I’m currently working on web scraping
 - 👯 I’m looking to collaborate on data extraction projects 
 - 🤔 I’m looking for help with data analysis/data wrangling 
-- 💬 Ask me questions about scraping websites (reverse engineering ajax requests, extracting json data, etc.)
+- 💬 Ask me questions about web scraping/data extraction (reverse engineering ajax requests, extracting json data, etc.)
 
 <!--
 **jarrettdev/jarrettdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
