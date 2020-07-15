@@ -1,5 +1,7 @@
 ### Hi
 
+I'm a computer science student at Arizona State University.
+
 You will find projects that I work on in my free time.
 
 Your contributions are welcomed and encouraged.
