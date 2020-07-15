@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi
+
+You will find projects on my page that I work on in my free time.
+
+Contributions are welcomed and encouraged.
+
+- 🔭 I’m currently working on web scraping
+- 👯 I’m looking to collaborate on data extraction projects 
+- 🤔 I’m looking for help with data analysis/data wrangling 
+- 💬 Ask me questions about scraping websites(ajax requests, json data, etc.)
 
 <!--
 **jarrettdev/jarrettdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
