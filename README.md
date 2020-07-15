@@ -2,7 +2,7 @@
 
 You will find projects on my page that I work on in my free time.
 
-Contributions are welcomed and encouraged.
+Your contributions are welcomed and encouraged.
 
 - 🔭 I’m currently working on web scraping
 - 👯 I’m looking to collaborate on data extraction projects 
