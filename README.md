@@ -1,6 +1,6 @@
 ### Hi
 
-You will find projects on my page that I work on in my free time.
+You will find projects that I work on in my free time.
 
 Your contributions are welcomed and encouraged.
 
