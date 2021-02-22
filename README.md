@@ -8,7 +8,7 @@ Your contributions are welcomed and encouraged.
 
 - 🔭 I’m currently working on data engineering
 - 👯 I’m looking to collaborate on data extraction projects 
-- 🤔 I’m looking for help with dockerizing scripts  
+- 🤔 I’m looking for help with dockerizing scripts and web dev
 - 💬 Ask me about web scraping/data extraction (reverse engineering ajax requests, extracting json data, API calls, etc.)
 
 <!--
