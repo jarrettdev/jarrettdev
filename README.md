@@ -6,10 +6,10 @@ You will find projects that I work on in my free time.
 
 Your contributions are welcomed and encouraged.
 
-- 🔭 I’m currently working on web scraping
+- 🔭 I’m currently working on data engineering
 - 👯 I’m looking to collaborate on data extraction projects 
-- 🤔 I’m looking for help with data analysis/data wrangling 
-- 💬 Ask me questions about web scraping/data extraction (reverse engineering ajax requests, extracting json data, etc.)
+- 🤔 I’m looking for help with dockerizing scripts  
+- 💬 Ask me about web scraping/data extraction (reverse engineering ajax requests, extracting json data, API calls, etc.)
 
 <!--
 **jarrettdev/jarrettdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
