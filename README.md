@@ -3,7 +3,6 @@
 
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dataranch/notebook)](https://www.kaggle.com/dataranch)
 
-[![dataranch](https://road-to-kaggle-grandmaster.vercel.app/api/simple/dataranch)](https://www.kaggle.com/dataranch)
 
 **Languages and Tools**
 
