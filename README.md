@@ -1,6 +1,6 @@
 <h1 align="center">Jarrett</h1>
 
-<h3 align="center">A seasoned data plumber practicing machine learning.
+<h3 align="center">A seasoned data plumber incorporating machine learning.
 
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dataranch/notebook)](https://www.kaggle.com/dataranch)
 
